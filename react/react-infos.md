@@ -1,7 +1,5 @@
 # Funcionalidades do React
 
-# Funcionalidades do React
-
 React é uma biblioteca JavaScript para construir interfaces de usuário de forma eficiente e interativa. Aqui estão algumas de suas principais funcionalidades:
 
 ## JSX
