@@ -111,3 +111,19 @@ function BotaoTema() {
 - `createContext`: Função que cria um objeto de contexto.
 - `Provider`: Componente que fornece o valor do contexto para os componentes filhos.
 - `useContext`: Hook que permite acessar o valor do contexto em componentes funcionais.
+
+
+## Props
+
+Props são objetos que contêm dados que são passados de um componente pai para um componente filho. Eles são usados para passar informações e funcionalidades entre componentes.
+
+```jsx
+function MeuComponente(props) {
+  return <h1>Olá, {props.nome}!</h1>;
+}
+```
+
+- `MeuComponente`: Função que recebe props como argumento.
+- `props`: Objeto que contém as propriedades passadas para o componente.
+- `nome`: Propriedade passada para o componente.
+- `props.nome`: Valor da propriedade `nome`.

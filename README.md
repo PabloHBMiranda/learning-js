@@ -1,6 +1,6 @@
 # learning-js
 
-Bem-vindo ao Repositório JavaScript Essencial! Este repositório é um recurso abrangente para desenvolvedores que buscam aprimorar suas habilidades em JavaScript, cobrindo desde conceitos básicos até técnicas avançadas.
+Este repositório é um recurso abrangente para desenvolvedores que buscam aprimorar suas habilidades em JavaScript, cobrindo desde conceitos básicos até técnicas avançadas.
 
 ## Conteúdo
 
@@ -12,3 +12,4 @@ Bem-vindo ao Repositório JavaScript Essencial! Este repositório é um recurso 
 - **ES6 e Além**: Explore as novidades do ECMAScript 6 e versões posteriores, incluindo let/const, desestruturação, módulos ES6, classes e muito mais.
 - **Padrões de Design**: Conheça padrões de design comuns em JavaScript para escrever código mais limpo e manutenível.
 - **Outros**: Aprenda sobre atribuição por desestruturação, manipulação de arrays, objetos e mapas, e muito mais.
+- **React**: Descubra os fundamentos do React, incluindo componentes, props, estado, ciclo de vida e hooks.
