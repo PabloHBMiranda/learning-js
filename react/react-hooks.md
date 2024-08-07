@@ -118,3 +118,12 @@ Permite fornecer um nome para um Hook customizado para facilitar a depuração. 
 ```jsx
 useDebugValue(valor, () => 'Nome do Hook');
 ```
+
+## `useSelect`
+
+Uma alternativa ao `useContext` para acessar dados de um contexto. Ele aceita um seletor e um comparador de igualdade e retorna o valor do contexto que corresponde ao seletor.
+
+```jsx
+const valorDoContexto = useSelect(seletor, comparador);
+```
+
